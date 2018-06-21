@@ -1,0 +1,77 @@
+header
+{
+    height: 100%;
+   	background-color: #1a7aa9;
+}
+
+footer
+{
+  	height: 100%;
+    background-color: #1a7aa9 !important;
+   	min-height: 100%; 
+}
+
+body
+{
+	background-image: url('frontend/image/fond2_BDLC.png')!important;
+  margin-bottom: -20px;
+}
+
+#fond
+{
+  background-image: url('frontend/image/fond2_BDLC.png') !important;
+}
+
+.bouton
+{
+  background-color: #5396B7;
+}
+.bouton:hover
+{
+  background-color: #6AC0EB;
+}
+
+
+/*Onglets
+.tabs{
+  color:#5396B7;
+}
+.tab{
+  color:#5396B7 !important;
+}
+.tab:hover{
+  background-color:#96D1FF;
+  color:#5396B7;
+}
+
+.tabs > li > a{
+  color: #5396B7;
+}
+.tabs > li > a:hover{
+  background-color: #96D1FF !important;
+    color:#5396B7;
+}
+*/
+
+/*  Pour un footer qui reste en bas apparament ...
+body {
+display: flex;
+min-height: 100%;
+flex-direction: column;
+}
+
+main {
+flex: 1 0 auto;
+}
+*/
+
+/*
+.Image_actu
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+     margin: 20px 20px 20px 20px;
+    box-shadow: 2px 2px 4px black;
+}
+*/

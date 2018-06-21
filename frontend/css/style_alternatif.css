@@ -1,0 +1,25 @@
+/*Feuille de style appliquée uniquement pour les comptes barista et admin
+Il ne doit logiquement y avoir que des changements de couleur */
+
+header
+{
+   	background-color: #ce5a4d;
+}
+
+footer
+{
+    background-color: #ce5a4d !important;
+}
+
+.bouton
+{
+  background-color: #92715a;
+}
+.bouton:hover
+{
+  background-color: #c89b7b;
+}
+.bouton:visted
+{
+	background-color: #c89b7b;
+}
